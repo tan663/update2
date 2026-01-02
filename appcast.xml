@@ -1,0 +1,30 @@
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ScreenAutomationBot Pro Updates</title>
+    <!-- GitHub PagesのURL -->
+    <link>https://[tan663].github.io/[update2]/</link>
+    <description>Updates</description>
+    <language>ja</language>
+    <item>
+      <title>Version 4.1</title>
+      <description>
+        <![CDATA[
+        <h2>アップデート内容</h2>
+        <ul>
+          <li>機能改善と修正</li>
+        </ul>
+        ]]>
+      </description>
+      <pubDate>Fri, 02 Jan 2026 23:00:00 +0900</pubDate>
+      <!-- GitHub ReleasesのURL (後でファイルのリンクをコピーしてここに入れますが、今は仮でOK) -->
+      <enclosure url="https://github.com/[ユーザー名]/[リポジトリ名]/releases/download/v4.1/ScreenAutomationBotPro_Setup.exe"
+                 sparkle:version="4.1"
+                 sparkle:shortVersionString="4.1"
+                 sparkle:edSignature="[BovCXmfCnp1orsGB/AXLtxwgJigT+CYSk8h6uG3GnwvHMKHQOGuleOKBx/oCHD7PNzvEvn9shyg2u179Z+bJAg==]"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
+```
