@@ -1,5 +1,5 @@
 ```xml
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="https://github.com/tan663/update2/releases/download/v4.1/ScreenAutomationBotPro_Setup.exe"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>ScreenAutomationBot Pro Updates</title>
@@ -18,7 +18,7 @@
         ]]>
       </description>
       <pubDate>Fri, 02 Jan 2026 23:00:00 +0900</pubDate>
-      <!-- GitHub ReleasesのURL (後でファイルのリンクをコピーしてここに入れますが、今は仮でOK) -->
+       
       <enclosure url="https://github.com/[ユーザー名]/[リポジトリ名]/releases/download/v4.1/ScreenAutomationBotPro_Setup.exe"
                  sparkle:version="4.1"
                  sparkle:shortVersionString="4.1"
@@ -28,3 +28,4 @@
   </channel>
 </rss>
 ```
+
