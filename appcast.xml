@@ -1,31 +1,18 @@
-```xml
-<?xml version="1.0" encoding="https://github.com/tan663/update2/releases/download/v4.1/ScreenAutomationBotPro_Setup.exe"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>ScreenAutomationBot Pro Updates</title>
-    <!-- GitHub PagesのURL -->
-    <link>https://[tan663].github.io/[update2]/</link>
-    <description>Updates</description>
-    <language>ja</language>
-    <item>
-      <title>Version 4.1</title>
-      <description>
-        <![CDATA[
-        <h2>アップデート内容</h2>
-        <ul>
-          <li>機能改善と修正</li>
-        </ul>
-        ]]>
-      </description>
-      <pubDate>Fri, 02 Jan 2026 23:00:00 +0900</pubDate>
-       
-      <enclosure url="https://github.com/[ユーザー名]/[リポジトリ名]/releases/download/v4.1/ScreenAutomationBotPro_Setup.exe"
-                 sparkle:version="4.1"
-                 sparkle:shortVersionString="4.1"
-                 sparkle:edSignature="[BovCXmfCnp1orsGB/AXLtxwgJigT+CYSk8h6uG3GnwvHMKHQOGuleOKBx/oCHD7PNzvEvn9shyg2u179Z+bJAg==]"
-                 type="application/octet-stream" />
-    </item>
-  </channel>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>ScreenAutomationBot Pro Updates</title>
+<link>https://github.com/tan663/update2/blob/main/appcast.xml</link>
+<description>Most recent updates to ScreenAutomationBot Pro</description>
+<language>ja</language>
+<item>
+<title>Version 4.2</title>
+<description>
+<![CDATA[ <h2>Version 4.2 Changes</h2> <ul> <li>Version bump to resolve release tag conflict.</li> <li>Includes FPS-based loop logic (Smoother 30FPS).</li> </ul> ]]>
+</description>
+<pubDate>Mon, 05 Jan 2026 00:00:00 +0900</pubDate>
+<enclosure url="https://github.com/tan663/update2/releases/download/v4.2/ScreenAutomationBotPro_Setup.exe" sparkle:version="4.2" sparkle:shortVersionString="4.2" sparkle:edSignature="5nN2Zen2pP4quUiTL34Eu8NPSdLoF91KcpRoK+sAhbbPiVTefVmex5nQOuN7mOhHqlGlqHzIY3YYCt8J5uiPBw==" type="application/octet-stream"/>
+</item>
+</channel>
 </rss>
-```
+
 
