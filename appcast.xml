@@ -6,25 +6,26 @@
     <description>Most recent updates to ScreenAutomationBot Pro</description>
     <language>ja</language>
     <item>
-      <title>Version 4.7</title>
+      <title>Version 4.8</title>
       <description>
         <![CDATA[
-        <h2>Version 4.7 Changes</h2>
+        <h2>Version 4.8 Changes</h2>
         <ul>
-          <li>Fixed Recovery Logic: Once the 6-minute wait starts, it will NOT be interrupted by random detections.</li>
-          <li>Ensures reliability even if small flickers occur during the wait period.</li>
+          <li>Fixed missing preview: OCR now continues to run for preview purposes even when "Stop" is pressed.</li>
+          <li>Actions (Keys/Recovery) are correctly guarded and will NOT execute while stopped.</li>
         </ul>
         ]]>
       </description>
-      <pubDate>Mon, 05 Jan 2026 21:00:00 +0900</pubDate>
-      <enclosure url="https://github.com/tan663/update2/releases/download/v4.7/ScreenAutomationBotPro_Setup.exe"
-                 sparkle:version="4.7"
-                 sparkle:shortVersionString="4.7"
-                 sparkle:edSignature="RlwabTq3D156SJcAATIfMN+5/ioVaHFxTX4Qg1/Y8viGWhEpAZf1CdHd421ZN9oAtZ4JYbd6ub/bxEoKbohLDw=="
+      <pubDate>Mon, 05 Jan 2026 23:55:00 +0900</pubDate>
+      <enclosure url="https://github.com/tan663/update2/releases/download/v4.8/ScreenAutomationBotPro_Setup.exe"
+                 sparkle:version="4.8"
+                 sparkle:shortVersionString="4.8"
+                 sparkle:edSignature="uSEHMMawGUG6Utai9wljm1Ty0aKCOK/YlyZmHaDMevjAoBjm3xSqwVbALY/H0i0M3ewK0FtSawAscUukvGh+AA=="
                  type="application/octet-stream" />
     </item>
   </channel>
 </rss>
+
 
 
 
