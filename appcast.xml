@@ -5,15 +5,16 @@
 <description>Most recent updates to ScreenAutomationBot Pro</description>
 <language>ja</language>
 <item>
-<title>Version 4.4</title>
+<title>Version 4.5</title>
 <description>
-<![CDATA[ <h2>Version 4.4 Changes</h2> <ul> <li>Fixed: Stop button now correctly stops detection immediately.</li> <li>Optimized FPS loop control when stopped.</li> </ul> ]]>
+<![CDATA[ <h2>Version 4.5 Changes</h2> <ul> <li>Fixed: Recovery Logic was not reacting. Implemented proper recovery cycle.</li> <li>Idle(5m) -> P -> Wait(6m) -> S(Hold) -> Reset.</li> </ul> ]]>
 </description>
-<pubDate>Mon, 05 Jan 2026 16:30:00 +0900</pubDate>
-<enclosure url="https://github.com/tan663/update2/releases/download/v4.4/ScreenAutomationBotPro_Setup.exe" sparkle:version="4.4" sparkle:shortVersionString="4.4" sparkle:edSignature="UcjZjrAkv7V748R7iqjWHlw7gGl6LPsNvzstF2NvyJOVAAuqO/Ar8lA0sQ9h9LIm37ChpTTxfOLlIp5aEdegDA==" type="application/octet-stream"/>
+<pubDate>Mon, 05 Jan 2026 17:15:00 +0900</pubDate>
+<enclosure url="https://github.com/tan663/update2/releases/download/v4.5/ScreenAutomationBotPro_Setup.exe" sparkle:version="4.5" sparkle:shortVersionString="4.5" sparkle:edSignature="y+UeiglyEKZv/VrCqdaxdCJZeyD9fpk7IxOP2khz7XMO30JxxP8bg+7aFJXG1mXjhD9QKF0lrtE5lKlZjM4gDA==" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
+
 
 
 
