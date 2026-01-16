@@ -1,69 +1,29 @@
-```xml
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>ScreenAutomationBot Pro Updates</title>
-    <!-- GitHub PagesのURL -->
-    <link>https://[tan663].github.io/[update2]/</link>
-    <description>Updates</description>
-    <language>ja</language>
-    <item>
-      <title>Version 5.1 (Critical Fix)</title>
-      <description>
-        <![CDATA[
-        <h2>Critical Maintenance Update (v5.1)</h2>
-        <ul>
-          <li><b>Memory Leak Fixed:</b> Resolved a critical bug in the optimized capture engine that caused memory usage to exceed 4GB.</li>
-          <li><b>Performance:</b> Sustained high performance without memory degradation.</li>
-        </ul>
-        ]]>
-      </description>
-      <pubDate>Thu, 15 Jan 2026 17:40:00 +0900</pubDate>
-      <enclosure url="https://github.com/[YourUsername]/[YourRepo]/releases/download/v5.1/ScreenAutomationBotPro_Setup.exe"
-                 sparkle:version="5.1"
-                 sparkle:shortVersionString="5.1"
-                 sparkle:edSignature="uSEHMMawGUG6Utai9wljm1Ty0aKCOK/YlyZmHaDMevjAoBjm3xSqwVbALY/H0i0M3ewK0FtSawAscUukvGh+AA=="
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 5.0 (Optimized)</title>
-      <description>
-        <![CDATA[
-        <h2>Major Update (v5.0)</h2>
-        <ul>
-          <li><b>Performance Boost:</b> Implemented asynchronous OCR and early-exit pixel filtering for smoother operation.</li>
-          <li><b>Security Hardening:</b> Enhanced internal obfuscation to protect against analysis.</li>
-        </ul>
-        ]]>
-      </description>
-      <pubDate>Thu, 15 Jan 2026 00:30:00 +0900</pubDate>
-      <enclosure url="https://github.com/[YourUsername]/[YourRepo]/releases/download/v5.0/ScreenAutomationBotPro_Setup.exe"
-                 sparkle:version="5.0"
-                 sparkle:shortVersionString="5.0"
-                 sparkle:edSignature=""
-                 type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 4.1</title>
-      <description>
-        <![CDATA[
-        <h2>アップデート内容</h2>
-        <ul>
-          <li>機能改善と修正</li>
-        </ul>
-        ]]>
-      </description>
-      <pubDate>Fri, 02 Jan 2026 23:00:00 +0900</pubDate>
-      <!-- GitHub ReleasesのURL (後でファイルのリンクをコピーしてここに入れますが、今は仮でOK) -->
-      <enclosure url="https://github.com/[ユーザー名]/[リポジトリ名]/releases/download/v4.1/ScreenAutomationBotPro_Setup.exe"
-                 sparkle:version="4.1"
-                 sparkle:shortVersionString="4.1"
-                 sparkle:edSignature="[Signature]"
-                 type="application/octet-stream" />
-    </item>
-  </channel>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>ScreenAutomationBot Pro Updates</title>
+<!--  GitHub PagesのURL  -->
+<link>https://tan663.github.io/update2/</link>
+<description>Updates</description>
+<language>ja</language>
+<item>
+<title>Version 5.1 (Critical Fix)</title>
+<description>
+<![CDATA[ <h2>Critical Maintenance Update (v5.1)</h2> <ul> <li><b>Memory Leak Fixed:</b> Resolved a critical bug in the optimized capture engine that caused memory usage to exceed 4GB.</li> <li><b>Performance:</b> Sustained high performance without memory degradation.</li> </ul> ]]>
+</description>
+<pubDate>Thu, 15 Jan 2026 23:50:00 +0900</pubDate>
+<enclosure url="https://github.com/tan663/update2/releases/download/v5.1/ScreenAutomationBotPro_Setup.exe" sparkle:version="5.1" sparkle:shortVersionString="5.1" sparkle:edSignature="T5l/Uz5i7YsX4TvIUVyt0TJ72WUHzvNZm/zsw/6S4lFYs/52TPog0vaY3MURZSOhzqQKzIFofE03AvnzgbDRBQ==" type="application/octet-stream"/>
+</item>
+<item>
+<title>Version 5.0 (Optimized)</title>
+<description>
+<![CDATA[ <h2>Major Update (v5.0)</h2> <ul> <li><b>Performance Boost:</b> Implemented asynchronous OCR and early-exit pixel filtering for smoother operation.</li> <li><b>Security Hardening:</b> Enhanced internal obfuscation to protect against analysis.</li> </ul> ]]>
+</description>
+<pubDate>Thu, 15 Jan 2026 00:30:00 +0900</pubDate>
+<enclosure url="https://github.com/tan663/update2/releases/download/v5.0/ScreenAutomationBotPro_Setup.exe" sparkle:version="5.0" sparkle:shortVersionString="5.0" sparkle:edSignature="" type="application/octet-stream"/>
+</item>
+</channel>
 </rss>
-```
+
 
 
 
