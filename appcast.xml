@@ -21,7 +21,7 @@
       <enclosure url="https://github.com/tan663/update2/releases/download/v5.2/ScreenAutomationBotPro_Setup.exe"
                  sparkle:version="5.2"
                  sparkle:shortVersionString="5.2"
-                 sparkle:edSignature="REPLACE_WITH_NEW_SIGNATURE_AFTER_BUILD"
+                 sparkle:edSignature="BovCXmfCnp1orsGB/AXLtxwgJigT+CYSk8h6uG3GnwvHMKHQOGuleOKBx/oCHD7PNzvEvn9shyg2u179Z+bJAg=="
                  type="application/octet-stream" />
     </item>
     <item>
@@ -44,6 +44,3 @@
     </item>
   </channel>
 </rss>
-
-
-
