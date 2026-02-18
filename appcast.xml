@@ -2,9 +2,8 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>ScreenAutomationBot Pro Updates</title>
-    <!-- GitHub PagesのURL -->
-    <link>https://tan663.github.io/update2/</link>
-    <description>Updates</description>
+    <link>https://github.com/tan663/update2/blob/main/appcast.xml</link>
+    <description>Most recent updates to ScreenAutomationBot Pro</description>
     <language>ja</language>
     <item>
       <title>Version 5.2 (Background Fix)</title>
@@ -18,7 +17,7 @@
         </ul>
         ]]>
       </description>
-      <pubDate>Thu, 19 Feb 2026 01:15:00 +0900</pubDate>
+      <pubDate>Thu, 19 Feb 2026 01:50:00 +0900</pubDate>
       <enclosure url="https://github.com/tan663/update2/releases/download/v5.2/ScreenAutomationBotPro_Setup.exe"
                  sparkle:version="5.2"
                  sparkle:shortVersionString="5.2"
@@ -26,21 +25,21 @@
                  type="application/octet-stream" />
     </item>
     <item>
-      <title>Version 5.0 (Optimized)</title>
+      <title>Version 4.8</title>
       <description>
         <![CDATA[
-        <h2>Major Update (v5.0)</h2>
+        <h2>Version 4.8 Changes</h2>
         <ul>
-          <li><b>Performance Boost:</b> Implemented asynchronous OCR and early-exit pixel filtering for smoother operation.</li>
-          <li><b>Security Hardening:</b> Enhanced internal obfuscation to protect against analysis.</li>
+          <li>Fixed missing preview: OCR now continues to run for preview purposes even when "Stop" is pressed.</li>
+          <li>Actions (Keys/Recovery) are correctly guarded and will NOT execute while stopped.</li>
         </ul>
         ]]>
       </description>
-      <pubDate>Thu, 15 Jan 2026 00:30:00 +0900</pubDate>
-      <enclosure url="https://github.com/tan663/update2/releases/download/v5.0/ScreenAutomationBotPro_Setup.exe"
-                 sparkle:version="5.0"
-                 sparkle:shortVersionString="5.0"
-                 sparkle:edSignature=""
+      <pubDate>Mon, 05 Jan 2026 23:55:00 +0900</pubDate>
+      <enclosure url="https://github.com/tan663/update2/releases/download/v4.8/ScreenAutomationBotPro_Setup.exe"
+                 sparkle:version="4.8"
+                 sparkle:shortVersionString="4.8"
+                 sparkle:edSignature="uSEHMMawGUG6Utai9wljm1Ty0aKCOK/YlyZmHaDMevjAoBjm3xSqwVbALY/H0i0M3ewK0FtSawAscUukvGh+AA=="
                  type="application/octet-stream" />
     </item>
   </channel>
