@@ -25,10 +25,10 @@
                  type="application/octet-stream" />
     </item>
     <item>
-      <title>Version 4.8</title>
+      <title>Version 5.2</title>
       <description>
         <![CDATA[
-        <h2>Version 4.8 Changes</h2>
+        <h2>Version 5.2 Changes</h2>
         <ul>
           <li>Fixed missing preview: OCR now continues to run for preview purposes even when "Stop" is pressed.</li>
           <li>Actions (Keys/Recovery) are correctly guarded and will NOT execute while stopped.</li>
@@ -37,8 +37,8 @@
       </description>
       <pubDate>Mon, 05 Jan 2026 23:55:00 +0900</pubDate>
       <enclosure url="https://github.com/tan663/update2/releases/download/v4.8/ScreenAutomationBotPro_Setup.exe"
-                 sparkle:version="4.8"
-                 sparkle:shortVersionString="4.8"
+                 sparkle:version="5.2"
+                 sparkle:shortVersionString="5.2"
                  sparkle:edSignature="uSEHMMawGUG6Utai9wljm1Ty0aKCOK/YlyZmHaDMevjAoBjm3xSqwVbALY/H0i0M3ewK0FtSawAscUukvGh+AA=="
                  type="application/octet-stream" />
     </item>
