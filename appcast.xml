@@ -19,7 +19,7 @@
       <enclosure url="https://github.com/tan663/update2/releases/download/v5.3/ScreenAutomationBotPro_Setup.exe"
                  sparkle:version="5.3"
                  sparkle:shortVersionString="5.3"
-                 sparkle:edSignature="OnQ9iFRCMAl4l53S2NAwEJwjpHl9FvnSUx+4zU48BXBTCZz2MMZ+6OnNKAJC8ryGyeR1VrkzvsgSIQ/31We0Aw=="
+                 sparkle:edSignature="a5i853OletjBMu9Si1ZzAXVuPuf0O5Zm1GXBfn1t53GWx5QZd3Mu92YoFw3lB5H77cXbUS8fdw2L3TxoQno3Dg=="
                  type="application/octet-stream" />
     </item>
     <item>
@@ -79,7 +79,6 @@
     </item>
   </channel>
 </rss>
-
 
 
 
