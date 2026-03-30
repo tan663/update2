@@ -6,6 +6,23 @@
     <description>Most recent updates to ScreenAutomationBot Pro</description>
     <language>ja</language>
     <item>
+      <title>Version 5.3 (Build Update)</title>
+      <description>
+        <![CDATA[
+        <h2>Update (v5.3)</h2>
+        <ul>
+          <li>Improvements and fixes included in the latest build artifacts.</li>
+        </ul>
+        ]]>
+      </description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://github.com/tan663/update2/releases/download/v5.3/ScreenAutomationBotPro_Setup.exe"
+                 sparkle:version="5.3"
+                 sparkle:shortVersionString="5.3"
+                 sparkle:edSignature="OnQ9iFRCMAl4l53S2NAwEJwjpHl9FvnSUx+4zU48BXBTCZz2MMZ+6OnNKAJC8ryGyeR1VrkzvsgSIQ/31We0Aw=="
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.2 (Min Value Filter)</title>
       <description>
         <![CDATA[
@@ -62,6 +79,7 @@
     </item>
   </channel>
 </rss>
+
 
 
 
